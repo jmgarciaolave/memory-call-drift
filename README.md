@@ -20,7 +20,8 @@ decision: do not build or buy this signal, and use walk-forward plus placebo as 
 vendor signal. If the fund studies anything next, it should be the day-one window.
 
 **Start here:** `notebooks/memory_call_drift.ipynb` walks through the whole project, runs the
-pipeline and shows every result. `docs/methodology.md` has the full discussion.
+pipeline and shows every result. `docs/methodology.md` has the full discussion and
+`docs/slides.pdf` is the client pitch.
 
 **Task and design.** One row per call. Inputs known at the day-one close: ten numbers (day-one
 move vs SOX as the surprise proxy, run-up, margins, growth, inventory days, capex) and the
