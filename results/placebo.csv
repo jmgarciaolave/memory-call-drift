@@ -1,0 +1,5 @@
+measure,real_finbert,placebo_mean,placebo_p05,placebo_p95,share_placebo_at_or_above_real,draws
+"Numbers + FinBERT tone, test AUC",0.3375,0.3338,0.3181,0.3480,0.4500,20
+"Numbers + FinBERT tone, walk-forward AUC",0.4670,0.4693,0.4595,0.4820,0.5500,20
+"Network on FinBERT embeddings, test AUC",0.6250,0.4881,0.3674,0.6362,0.1000,20
+"Network on FinBERT embeddings, walk-forward AUC",0.4768,0.4799,0.4018,0.5312,0.5000,20

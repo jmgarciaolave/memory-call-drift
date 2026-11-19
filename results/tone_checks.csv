@@ -1,0 +1,5 @@
+text_measure,compared_with,spearman_rho,p_value,n_calls
+tone level (vs company average),day-one move vs SOX,0.121721,0.063039,234
+tone level (vs company average),days 2-20 return vs SOX,-0.094552,0.149343,234
+tone change vs previous call,day-one move vs SOX,0.066340,0.312259,234
+tone change vs previous call,days 2-20 return vs SOX,-0.010655,0.871205,234

@@ -1,0 +1,23 @@
+# licensed data: never commit
+data/events.csv
+data/call_map.csv
+data/text_features.csv
+data/finbert_chunks.csv
+data/finbert_cache/
+data/day1_features.csv
+data/transcripts_text
+data/transcripts_text/
+*.xlsx
+results/test_predictions.csv
+
+# local
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+results_sample/
+results_check/
+
+# internal team notes (links to private accounts), not for the public repo
+HANDOFF.md

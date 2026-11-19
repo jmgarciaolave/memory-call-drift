@@ -1,0 +1,10 @@
+model,n_calls,auc,auc_lo,auc_hi,accuracy,spread,spread_lo,spread_hi
+Benchmark: always the majority class,176,0.500000,,,0.585227,0.005490,,
+Benchmark: follow the day-one move,176,0.455912,,,0.465909,-0.019549,,
+Numbers: logistic regression,176,0.463625,0.383893,0.536993,0.579545,-0.047777,-0.085463,-0.011231
+Numbers: gradient-boosted trees,176,0.456710,0.379250,0.533698,0.511364,-0.017612,-0.043459,0.005823
+Text: neural network on call vectors,176,0.495146,0.417573,0.566744,0.579545,0.004562,-0.020208,0.040150
+Numbers + word-count tone,176,0.468280,0.391813,0.540729,0.556818,-0.043820,-0.083202,-0.008071
+Numbers + text network,176,0.461764,0.383701,0.536249,0.573864,-0.050518,-0.086646,-0.012208
+Text: neural network on FinBERT embeddings,176,0.476792,0.405657,0.549960,0.517045,0.006712,-0.022324,0.030012
+Numbers + FinBERT tone,176,0.466950,0.388130,0.538917,0.573864,-0.043533,-0.077512,-0.002519

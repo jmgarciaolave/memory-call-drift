@@ -1,0 +1,25 @@
+{
+  "n_calls": 234,
+  "n_train": 132,
+  "n_val": 48,
+  "n_test": 54,
+  "share_up": {
+    "train": 0.42424242424242425,
+    "validation": 0.4375,
+    "test": 0.4444444444444444
+  },
+  "calls_by_producer": {
+    "SK_Hynix": 66,
+    "Samsung": 65,
+    "Micron": 64,
+    "Sandisk_Lineage": 39
+  },
+  "first_call": "2010-01-21",
+  "last_call": "2026-04-30",
+  "median_words": 6379,
+  "mean_outcome": {
+    "train": -0.016091598484848483,
+    "validation": -0.017017604166666665,
+    "test": 0.027919111111111113
+  }
+}

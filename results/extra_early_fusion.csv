@@ -1,0 +1,4 @@
+model,setting,val_auc,test_auc,test_accuracy,wf_n,wf_auc,wf_accuracy,test_auc_lo,test_auc_hi,wf_auc_lo,wf_auc_hi,wf_spread,wf_spread_lo,wf_spread_hi,placebo_test_auc_p05,placebo_test_auc_p95,placebo_test_auc_share_at_or_above,placebo_wf_auc_p05,placebo_wf_auc_p95,placebo_wf_auc_share_at_or_above,placebo_draws
+Benchmark: always the majority class,,0.500000,0.500000,0.555556,176,0.500000,0.585227,,,,,,,,,,,,,,
+"Early fusion, logistic regression: numbers + 10 FinBERT components",1.0,0.560847,0.336111,0.481481,176,0.463226,0.551136,0.219503,0.466667,0.386847,0.536621,-0.008816,-0.039604,0.017879,0.277014,0.364028,0.350000,0.447759,0.496003,0.500000,20.000000
+"Early fusion, gradient-boosted trees: numbers + 10 FinBERT components","{'n_estimators': 50, 'max_depth': 1}",0.555556,0.413889,0.481481,176,0.423860,0.556818,0.286932,0.544038,0.347486,0.497660,-0.049178,-0.084279,-0.007473,0.351806,0.447500,0.200000,0.418693,0.513818,0.900000,20.000000

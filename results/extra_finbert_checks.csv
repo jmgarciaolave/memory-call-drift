@@ -1,0 +1,31 @@
+measure,compared_with,companies,spearman_rho,p_value,n_calls
+"FinBERT tone level, whole call",day-one move vs SOX,all companies,0.054502,0.406611,234
+"FinBERT tone level, whole call",day-one move vs SOX,US-listed,0.166301,0.093175,103
+"FinBERT tone level, whole call",day-one move vs SOX,Korea-listed,-0.041403,0.638686,131
+"FinBERT tone level, whole call",days 2-20 return vs SOX,all companies,-0.034336,0.601264,234
+"FinBERT tone level, whole call",days 2-20 return vs SOX,US-listed,-0.143533,0.148057,103
+"FinBERT tone level, whole call",days 2-20 return vs SOX,Korea-listed,0.043533,0.621508,131
+"FinBERT tone level, prepared remarks",day-one move vs SOX,all companies,0.066337,0.312284,234
+"FinBERT tone level, prepared remarks",day-one move vs SOX,US-listed,0.184850,0.061585,103
+"FinBERT tone level, prepared remarks",day-one move vs SOX,Korea-listed,-0.065900,0.454556,131
+"FinBERT tone level, prepared remarks",days 2-20 return vs SOX,all companies,-0.084587,0.197288,234
+"FinBERT tone level, prepared remarks",days 2-20 return vs SOX,US-listed,-0.201445,0.041304,103
+"FinBERT tone level, prepared remarks",days 2-20 return vs SOX,Korea-listed,0.029445,0.738485,131
+"FinBERT tone level, Q&A",day-one move vs SOX,all companies,0.025512,0.697847,234
+"FinBERT tone level, Q&A",day-one move vs SOX,US-listed,0.131167,0.186613,103
+"FinBERT tone level, Q&A",day-one move vs SOX,Korea-listed,-0.058907,0.503918,131
+"FinBERT tone level, Q&A",days 2-20 return vs SOX,all companies,0.018901,0.773642,234
+"FinBERT tone level, Q&A",days 2-20 return vs SOX,US-listed,-0.005030,0.959782,103
+"FinBERT tone level, Q&A",days 2-20 return vs SOX,Korea-listed,0.029504,0.737983,131
+"FinBERT tone change vs previous call, whole call",day-one move vs SOX,all companies,0.172112,0.008909,230
+"FinBERT tone change vs previous call, whole call",day-one move vs SOX,US-listed,0.296342,0.002621,101
+"FinBERT tone change vs previous call, whole call",day-one move vs SOX,Korea-listed,0.075839,0.392990,129
+"FinBERT tone change vs previous call, whole call",days 2-20 return vs SOX,all companies,0.027123,0.682416,230
+"FinBERT tone change vs previous call, whole call",days 2-20 return vs SOX,US-listed,-0.057123,0.570445,101
+"FinBERT tone change vs previous call, whole call",days 2-20 return vs SOX,Korea-listed,0.096288,0.277700,129
+"FinBERT tone change vs previous call, Q&A",day-one move vs SOX,all companies,0.091763,0.165443,230
+"FinBERT tone change vs previous call, Q&A",day-one move vs SOX,US-listed,0.167105,0.094870,101
+"FinBERT tone change vs previous call, Q&A",day-one move vs SOX,Korea-listed,0.042017,0.636366,129
+"FinBERT tone change vs previous call, Q&A",days 2-20 return vs SOX,all companies,0.012618,0.849052,230
+"FinBERT tone change vs previous call, Q&A",days 2-20 return vs SOX,US-listed,-0.023331,0.816856,101
+"FinBERT tone change vs previous call, Q&A",days 2-20 return vs SOX,Korea-listed,0.040111,0.651761,129

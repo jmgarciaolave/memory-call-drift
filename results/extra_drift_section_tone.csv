@@ -1,0 +1,5 @@
+model,setting,val_auc,test_auc,test_accuracy,wf_n,wf_auc,wf_accuracy,test_auc_lo,test_auc_hi,wf_auc_lo,wf_auc_hi,wf_spread,wf_spread_lo,wf_spread_hi
+Benchmark: always the majority class,,0.500000,0.500000,0.555556,176,0.500000,0.585227,,,,,,,
+Numbers only (reference),0.010000,0.560847,0.320833,0.481481,176,0.463625,0.579545,0.197027,0.443613,0.383893,0.536993,-0.047777,-0.085463,-0.011231
+Numbers + FinBERT tone of remarks and Q&A,0.010000,0.544974,0.361111,0.537037,176,0.467881,0.573864,0.237216,0.482858,0.390445,0.540926,-0.037814,-0.081798,-0.002561
+Numbers + FinBERT tone of Q&A only,0.010000,0.530864,0.313889,0.518519,176,0.455646,0.585227,0.191720,0.434659,0.378349,0.528669,-0.026309,-0.072176,-0.003445

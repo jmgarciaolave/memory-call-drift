@@ -1,0 +1,14 @@
+﻿numpy>=1.26
+pandas>=2.2
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+
+# walk-through notebook (notebooks/memory_call_drift.ipynb, scripts/build_notebook.py)
+nbformat>=5.9
+nbclient>=0.10
+ipykernel>=6.29
+
+# only needed for scripts/score_finbert.py (tested with torch 2.15 CPU, transformers 5.23)
+# torch>=2.2
+# transformers>=4.40

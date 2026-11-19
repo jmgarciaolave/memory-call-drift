@@ -1,0 +1,10 @@
+model,test_auc_ex_samsung,test_accuracy_ex_samsung
+Benchmark: always the majority class,0.500000,0.525000
+Benchmark: follow the day-one move,0.472431,0.475000
+Numbers: logistic regression,0.348371,0.425000
+Numbers: gradient-boosted trees,0.414787,0.425000
+Text: neural network on call vectors,0.496241,0.500000
+Numbers + word-count tone,0.358396,0.425000
+Numbers + text network,0.348371,0.425000
+Text: neural network on FinBERT embeddings,0.596491,0.625000
+Numbers + FinBERT tone,0.353383,0.475000
